@@ -1,0 +1,33 @@
+.drawer-content {
+  height: 90%;
+  padding: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 5% 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.creation-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h3 {
+  margin: 0;
+}
+.close-button {
+  font-size: 2vw;
+  cursor: pointer;
+}
+.form-elements {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10px 0px;
+}
+label,
+input {
+  margin: 5px;
+}

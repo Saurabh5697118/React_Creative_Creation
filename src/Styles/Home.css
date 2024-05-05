@@ -1,0 +1,32 @@
+.main-container{
+    box-shadow: 10px 10px 20px 0px #80808099;
+    height: auto;
+    width: 80%;
+    background-color: #fff;
+    border-radius:20px;
+    padding: 10px;
+}
+h1,h2, label{
+    margin: 0;
+}
+
+.color-type {
+    height: 20px;
+    width: 20px;
+    margin: 5px;
+    border-radius: 50%;
+    border: 1px solid;
+  }
+
+.add-creative-button, .drawer-done-button{
+    min-width: 150px;
+    padding: 10px;
+    font-family: cursive;
+    border-radius: 20px;
+    border: none;
+    background-color: #77b3b5;
+    font-weight: bold;
+}
+button{
+    cursor: pointer;
+}
